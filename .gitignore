@@ -3,3 +3,4 @@ npm-debug.log
 coverage/
 .DS_Store
 yarn-error.log
+.history

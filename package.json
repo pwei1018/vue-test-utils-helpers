@@ -1,6 +1,7 @@
 {
-  "name": "vue-test-utils-helpers",
-  "version": "1.0.3",
+  "name": "@pwei1018/vue-test-utils-helpers",
+  "repository": "git@github.com:pwei1018/vue-test-utils-helpers.git",
+  "version": "1.0.5",
   "description": "Helper functions that make unit testing easier for vue components",
   "main": "lib/index.js",
   "scripts": {
@@ -33,5 +34,8 @@
   },
   "dependencies": {
     "lodash.clonedeep": "^4.5.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
